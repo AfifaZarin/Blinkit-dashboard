@@ -71,7 +71,7 @@ This project showcases a **Power BI dashboard** that provides a comprehensive sa
 
 ## 📁 Repository Contents
 
-- `Blinkit_Sales_Dashboard.pbix` – Power BI dashboard file  
+- `Blinkit_Sales_Dashboard.pbit` – https://github.com/AfifaZarin/Blinkit-dashboard/blob/main/blinkit_dashboard_project.pbit  
 - `/screenshots/` – https://github.com/AfifaZarin/Blinkit-dashboard/blob/main/blinkit_screenshot.png
 
 ---
